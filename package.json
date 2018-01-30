@@ -1,0 +1,21 @@
+{
+  "name": "Quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular-devkit/core": "0.0.29",
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.6"
+  }
+}
